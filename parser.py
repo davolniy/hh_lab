@@ -2,6 +2,7 @@ import requests
 import mapper
 from tqdm import tqdm
 
+
 class Parser:
 
     URL_VACANCIES = 'https://api.hh.ru/vacancies?'
