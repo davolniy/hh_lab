@@ -1,0 +1,1162 @@
+,,,0
+"(0.0, 40000.0]",salary_from_uniques,3000.0,3
+"(0.0, 40000.0]",salary_from_uniques,25000.0,2
+"(0.0, 40000.0]",salary_from_uniques,400.0,2
+"(0.0, 40000.0]",salary_from_uniques,0.0,1
+"(0.0, 40000.0]",salary_from_uniques,2500.0,1
+"(0.0, 40000.0]",salary_from_uniques,2000.0,1
+"(0.0, 40000.0]",salary_from_uniques,1200.0,1
+"(0.0, 40000.0]",salary_to_uniques,3000.0,4
+"(0.0, 40000.0]",salary_to_uniques,5000.0,2
+"(0.0, 40000.0]",salary_to_uniques,35000.0,1
+"(0.0, 40000.0]",salary_to_uniques,30000.0,1
+"(0.0, 40000.0]",salary_to_uniques,25000.0,1
+"(0.0, 40000.0]",salary_to_uniques,4500.0,1
+"(0.0, 40000.0]",salary_to_uniques,1800.0,1
+"(0.0, 40000.0]",experience_uniques,От 1 года до 3 лет,5
+"(0.0, 40000.0]",experience_uniques,Нет опыта,3
+"(0.0, 40000.0]",experience_uniques,От 3 до 6 лет,3
+"(0.0, 40000.0]",employment_uniques,Полная занятость,10
+"(0.0, 40000.0]",employment_uniques,Стажировка,1
+"(0.0, 40000.0]",schedule_uniques,Удаленная работа,6
+"(0.0, 40000.0]",schedule_uniques,Полный день,4
+"(0.0, 40000.0]",schedule_uniques,Гибкий график,1
+"(0.0, 40000.0]",key_skills_uniques,JavaScript,7
+"(0.0, 40000.0]",key_skills_uniques,CSS,3
+"(0.0, 40000.0]",key_skills_uniques,jQuery,3
+"(0.0, 40000.0]",key_skills_uniques,HTML,3
+"(0.0, 40000.0]",key_skills_uniques,ООП,3
+"(0.0, 40000.0]",key_skills_uniques,MVC,3
+"(0.0, 40000.0]",key_skills_uniques,Git,3
+"(0.0, 40000.0]",key_skills_uniques,PHP,3
+"(0.0, 40000.0]",key_skills_uniques,Realm,2
+"(0.0, 40000.0]",key_skills_uniques,HTML5,2
+"(0.0, 40000.0]",key_skills_uniques,SQL,2
+"(0.0, 40000.0]",key_skills_uniques,MySQL,2
+"(0.0, 40000.0]",key_skills_uniques,CSS3,2
+"(0.0, 40000.0]",key_skills_uniques,Bootstrap,2
+"(0.0, 40000.0]",key_skills_uniques,Веб-программирование,2
+"(0.0, 40000.0]",key_skills_uniques,iOS,1
+"(0.0, 40000.0]",key_skills_uniques,SVN,1
+"(0.0, 40000.0]",key_skills_uniques,Symfony,1
+"(0.0, 40000.0]",key_skills_uniques,ABAP,1
+"(0.0, 40000.0]",key_skills_uniques,SPA,1
+"(0.0, 40000.0]",key_skills_uniques,SQLite,1
+"(0.0, 40000.0]",key_skills_uniques,SOAP,1
+"(0.0, 40000.0]",key_skills_uniques,PHP5,1
+"(0.0, 40000.0]",key_skills_uniques,RxSwift,1
+"(0.0, 40000.0]",key_skills_uniques,Node.js,1
+"(0.0, 40000.0]",key_skills_uniques,SAP,1
+"(0.0, 40000.0]",key_skills_uniques,React,1
+"(0.0, 40000.0]",key_skills_uniques,react,1
+"(0.0, 40000.0]",key_skills_uniques,Разработка ПО,1
+"(0.0, 40000.0]",key_skills_uniques,Web Application Development,1
+"(0.0, 40000.0]",key_skills_uniques,Linux,1
+"(0.0, 40000.0]",key_skills_uniques,vuejs,1
+"(0.0, 40000.0]",key_skills_uniques,reactjs,1
+"(0.0, 40000.0]",key_skills_uniques,Nginx,1
+"(0.0, 40000.0]",key_skills_uniques,PHPUnit,1
+"(0.0, 40000.0]",key_skills_uniques,Choreographer,1
+"(0.0, 40000.0]",key_skills_uniques,vue,1
+"(0.0, 40000.0]",key_skills_uniques,ConstraintLayout,1
+"(0.0, 40000.0]",key_skills_uniques,React Native,1
+"(0.0, 40000.0]",key_skills_uniques,ViewGroup,1
+"(0.0, 40000.0]",key_skills_uniques,Ajax,1
+"(0.0, 40000.0]",key_skills_uniques,СУБД,1
+"(0.0, 40000.0]",key_skills_uniques,"Kotlin, RxJava",1
+"(0.0, 40000.0]",key_skills_uniques,Администрирование сайтов,1
+"(0.0, 40000.0]",key_skills_uniques,REST,1
+"(0.0, 40000.0]",key_skills_uniques,Администрирование серверов Linux,1
+"(0.0, 40000.0]",key_skills_uniques,Yii,1
+"(0.0, 40000.0]",key_skills_uniques,1С-Битрикс,1
+"(0.0, 40000.0]",key_skills_uniques,AngularJS,1
+"(40000.0, 80000.0]",salary_from_uniques,50000.0,7
+"(40000.0, 80000.0]",salary_from_uniques,60000.0,7
+"(40000.0, 80000.0]",salary_from_uniques,0.0,5
+"(40000.0, 80000.0]",salary_from_uniques,40000.0,4
+"(40000.0, 80000.0]",salary_from_uniques,70000.0,3
+"(40000.0, 80000.0]",salary_from_uniques,35000.0,2
+"(40000.0, 80000.0]",salary_from_uniques,30000.0,2
+"(40000.0, 80000.0]",salary_from_uniques,2000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,20000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,55000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,25000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,80000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,37000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,47500.0,1
+"(40000.0, 80000.0]",salary_from_uniques,38000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,65000.0,1
+"(40000.0, 80000.0]",salary_from_uniques,32000.0,1
+"(40000.0, 80000.0]",salary_to_uniques,80000.0,18
+"(40000.0, 80000.0]",salary_to_uniques,70000.0,10
+"(40000.0, 80000.0]",salary_to_uniques,50000.0,4
+"(40000.0, 80000.0]",salary_to_uniques,75000.0,2
+"(40000.0, 80000.0]",salary_to_uniques,61750.0,1
+"(40000.0, 80000.0]",salary_to_uniques,65000.0,1
+"(40000.0, 80000.0]",salary_to_uniques,58500.0,1
+"(40000.0, 80000.0]",salary_to_uniques,60000.0,1
+"(40000.0, 80000.0]",salary_to_uniques,48000.0,1
+"(40000.0, 80000.0]",salary_to_uniques,45000.0,1
+"(40000.0, 80000.0]",experience_uniques,От 1 года до 3 лет,21
+"(40000.0, 80000.0]",experience_uniques,Нет опыта,15
+"(40000.0, 80000.0]",experience_uniques,От 3 до 6 лет,2
+"(40000.0, 80000.0]",experience_uniques,Более 6 лет,2
+"(40000.0, 80000.0]",employment_uniques,Полная занятость,33
+"(40000.0, 80000.0]",employment_uniques,Частичная занятость,5
+"(40000.0, 80000.0]",employment_uniques,Стажировка,1
+"(40000.0, 80000.0]",employment_uniques,Проектная работа,1
+"(40000.0, 80000.0]",schedule_uniques,Полный день,28
+"(40000.0, 80000.0]",schedule_uniques,Удаленная работа,10
+"(40000.0, 80000.0]",schedule_uniques,Гибкий график,2
+"(40000.0, 80000.0]",key_skills_uniques,JavaScript,13
+"(40000.0, 80000.0]",key_skills_uniques,CSS,11
+"(40000.0, 80000.0]",key_skills_uniques,SQL,10
+"(40000.0, 80000.0]",key_skills_uniques,PHP,9
+"(40000.0, 80000.0]",key_skills_uniques,Git,8
+"(40000.0, 80000.0]",key_skills_uniques,1С-Битрикс,7
+"(40000.0, 80000.0]",key_skills_uniques,ООП,7
+"(40000.0, 80000.0]",key_skills_uniques,MySQL,7
+"(40000.0, 80000.0]",key_skills_uniques,jQuery,7
+"(40000.0, 80000.0]",key_skills_uniques,HTML5,7
+"(40000.0, 80000.0]",key_skills_uniques,Ajax,6
+"(40000.0, 80000.0]",key_skills_uniques,HTML,5
+"(40000.0, 80000.0]",key_skills_uniques,CSS3,5
+"(40000.0, 80000.0]",key_skills_uniques,MS SQL,4
+"(40000.0, 80000.0]",key_skills_uniques,REST,3
+"(40000.0, 80000.0]",key_skills_uniques,MS SQL Server,3
+"(40000.0, 80000.0]",key_skills_uniques,Кроссбраузерная верстка,3
+"(40000.0, 80000.0]",key_skills_uniques,PHP5,2
+"(40000.0, 80000.0]",key_skills_uniques,phpMyAdmin,2
+"(40000.0, 80000.0]",key_skills_uniques,React,2
+"(40000.0, 80000.0]",key_skills_uniques,WPF,2
+"(40000.0, 80000.0]",key_skills_uniques,C++,2
+"(40000.0, 80000.0]",key_skills_uniques,Apache HTTP Server,2
+"(40000.0, 80000.0]",key_skills_uniques,Bootstrap,2
+"(40000.0, 80000.0]",key_skills_uniques,Nginx,2
+"(40000.0, 80000.0]",key_skills_uniques,MVC,2
+"(40000.0, 80000.0]",key_skills_uniques,Yii,2
+"(40000.0, 80000.0]",key_skills_uniques,Linux,2
+"(40000.0, 80000.0]",key_skills_uniques,.NET Framework,2
+"(40000.0, 80000.0]",key_skills_uniques,C#,2
+"(40000.0, 80000.0]",key_skills_uniques,Верстка,2
+"(40000.0, 80000.0]",key_skills_uniques,CMS Wordpress,2
+"(40000.0, 80000.0]",key_skills_uniques,MS Visual Studio,2
+"(40000.0, 80000.0]",key_skills_uniques,Adobe Photoshop,2
+"(40000.0, 80000.0]",key_skills_uniques,PostgreSQL,2
+"(40000.0, 80000.0]",key_skills_uniques,Windows Forms,2
+"(40000.0, 80000.0]",key_skills_uniques,laravel,2
+"(40000.0, 80000.0]",key_skills_uniques,Web Design,1
+"(40000.0, 80000.0]",key_skills_uniques,Работа в команде,1
+"(40000.0, 80000.0]",key_skills_uniques,Sass,1
+"(40000.0, 80000.0]",key_skills_uniques,Less,1
+"(40000.0, 80000.0]",key_skills_uniques,CODESYS,1
+"(40000.0, 80000.0]",key_skills_uniques,Cистемы управления базами данных,1
+"(40000.0, 80000.0]",key_skills_uniques,SCSS,1
+"(40000.0, 80000.0]",key_skills_uniques,Adobe Illustrator,1
+"(40000.0, 80000.0]",key_skills_uniques,Android SDK,1
+"(40000.0, 80000.0]",key_skills_uniques,Грамотность,1
+"(40000.0, 80000.0]",key_skills_uniques,Ведение переговоров,1
+"(40000.0, 80000.0]",key_skills_uniques,TCP/IP,1
+"(40000.0, 80000.0]",key_skills_uniques,Adobe Acrobat,1
+"(40000.0, 80000.0]",key_skills_uniques,Java,1
+"(40000.0, 80000.0]",key_skills_uniques,Web-дизайн,1
+"(40000.0, 80000.0]",key_skills_uniques,Zend Framework,1
+"(40000.0, 80000.0]",key_skills_uniques,Qt,1
+"(40000.0, 80000.0]",key_skills_uniques,API,1
+"(40000.0, 80000.0]",key_skills_uniques,AutoCAD,1
+"(40000.0, 80000.0]",key_skills_uniques,LINQ to SQL,1
+"(40000.0, 80000.0]",key_skills_uniques,Веб-дизайн,1
+"(40000.0, 80000.0]",key_skills_uniques,XML,1
+"(40000.0, 80000.0]",key_skills_uniques,MS Visual Basic,1
+"(40000.0, 80000.0]",key_skills_uniques,Веб-аналитика,1
+"(40000.0, 80000.0]",key_skills_uniques,Angular,1
+"(40000.0, 80000.0]",key_skills_uniques,Многозадачность,1
+"(40000.0, 80000.0]",key_skills_uniques,Symfony,1
+"(40000.0, 80000.0]",key_skills_uniques,PHP7,1
+"(40000.0, 80000.0]",key_skills_uniques,VueJS,1
+"(40000.0, 80000.0]",key_skills_uniques,Microsoft Visual Studio,1
+"(40000.0, 80000.0]",key_skills_uniques,Администрирование сайтов,1
+"(40000.0, 80000.0]",key_skills_uniques,Творческое мышление,1
+"(40000.0, 80000.0]",key_skills_uniques,ES2015,1
+"(40000.0, 80000.0]",key_skills_uniques,Дизайн,1
+"(40000.0, 80000.0]",key_skills_uniques,Знание Bluetooth 5,1
+"(40000.0, 80000.0]",key_skills_uniques,Работа с базами данных,1
+"(40000.0, 80000.0]",key_skills_uniques,Joomla CMS,1
+"(40000.0, 80000.0]",key_skills_uniques,Английский язык,1
+"(40000.0, 80000.0]",key_skills_uniques,Windows 7,1
+"(40000.0, 80000.0]",key_skills_uniques,Ориентация на результат,1
+"(40000.0, 80000.0]",key_skills_uniques,Проектирование пользовательских интерфейсов,1
+"(40000.0, 80000.0]",key_skills_uniques,JSON API,1
+"(40000.0, 80000.0]",key_skills_uniques,СУБД,1
+"(40000.0, 80000.0]",key_skills_uniques,clickhouse,1
+"(40000.0, 80000.0]",key_skills_uniques,Функциональное тестирование,1
+"(40000.0, 80000.0]",key_skills_uniques,RabbitMQ,1
+"(40000.0, 80000.0]",key_skills_uniques,Яндекс.Метрика,1
+"(40000.0, 80000.0]",key_skills_uniques,Yii2,1
+"(40000.0, 80000.0]",key_skills_uniques,Visual C++,1
+"(40000.0, 80000.0]",key_skills_uniques,Программирование аппаратных устройств,1
+"(40000.0, 80000.0]",key_skills_uniques,Пользователь ПК,1
+"(40000.0, 80000.0]",key_skills_uniques,Веб-программирование,1
+"(40000.0, 80000.0]",key_skills_uniques,Webpack,1
+"(40000.0, 80000.0]",key_skills_uniques,BLE,1
+"(40000.0, 80000.0]",key_skills_uniques,Корпоративная этика,1
+"(40000.0, 80000.0]",key_skills_uniques,Настройка сетевых подключений,1
+"(40000.0, 80000.0]",key_skills_uniques,nRF,1
+"(40000.0, 80000.0]",key_skills_uniques,LINQ,1
+"(40000.0, 80000.0]",key_skills_uniques,АСУ ТП,1
+"(40000.0, 80000.0]",key_skills_uniques,интеграция верстки в CMS,1
+"(40000.0, 80000.0]",key_skills_uniques,Android,1
+"(40000.0, 80000.0]",key_skills_uniques,Базы данных,1
+"(40000.0, 80000.0]",key_skills_uniques,анимации,1
+"(40000.0, 80000.0]",key_skills_uniques,Графический дизайн,1
+"(40000.0, 80000.0]",key_skills_uniques,Создание сайтов,1
+"(40000.0, 80000.0]",key_skills_uniques,Python,1
+"(40000.0, 80000.0]",key_skills_uniques,Visual Basic,1
+"(40000.0, 80000.0]",key_skills_uniques,Креативность,1
+"(40000.0, 80000.0]",key_skills_uniques,SCADA,1
+"(40000.0, 80000.0]",key_skills_uniques,Highcharts,1
+"(40000.0, 80000.0]",key_skills_uniques,Transact-SQL,1
+"(40000.0, 80000.0]",key_skills_uniques,ES6,1
+"(80000.0, 120000.0]",salary_from_uniques,0.0,19
+"(80000.0, 120000.0]",salary_from_uniques,100000.0,13
+"(80000.0, 120000.0]",salary_from_uniques,80000.0,11
+"(80000.0, 120000.0]",salary_from_uniques,70000.0,10
+"(80000.0, 120000.0]",salary_from_uniques,50000.0,10
+"(80000.0, 120000.0]",salary_from_uniques,60000.0,8
+"(80000.0, 120000.0]",salary_from_uniques,90000.0,5
+"(80000.0, 120000.0]",salary_from_uniques,120000.0,3
+"(80000.0, 120000.0]",salary_from_uniques,85000.0,2
+"(80000.0, 120000.0]",salary_from_uniques,110000.0,1
+"(80000.0, 120000.0]",salary_from_uniques,65000.0,1
+"(80000.0, 120000.0]",salary_from_uniques,97800.0,1
+"(80000.0, 120000.0]",salary_from_uniques,30000.0,1
+"(80000.0, 120000.0]",salary_from_uniques,55000.0,1
+"(80000.0, 120000.0]",salary_from_uniques,25000.0,1
+"(80000.0, 120000.0]",salary_from_uniques,40000.0,1
+"(80000.0, 120000.0]",salary_to_uniques,120000.0,45
+"(80000.0, 120000.0]",salary_to_uniques,100000.0,23
+"(80000.0, 120000.0]",salary_to_uniques,90000.0,10
+"(80000.0, 120000.0]",salary_to_uniques,110000.0,5
+"(80000.0, 120000.0]",salary_to_uniques,85000.0,3
+"(80000.0, 120000.0]",salary_to_uniques,92000.0,1
+"(80000.0, 120000.0]",salary_to_uniques,97800.0,1
+"(80000.0, 120000.0]",experience_uniques,От 1 года до 3 лет,58
+"(80000.0, 120000.0]",experience_uniques,От 3 до 6 лет,21
+"(80000.0, 120000.0]",experience_uniques,Нет опыта,9
+"(80000.0, 120000.0]",employment_uniques,Полная занятость,81
+"(80000.0, 120000.0]",employment_uniques,Частичная занятость,4
+"(80000.0, 120000.0]",employment_uniques,Проектная работа,2
+"(80000.0, 120000.0]",employment_uniques,Стажировка,1
+"(80000.0, 120000.0]",schedule_uniques,Полный день,64
+"(80000.0, 120000.0]",schedule_uniques,Удаленная работа,18
+"(80000.0, 120000.0]",schedule_uniques,Гибкий график,5
+"(80000.0, 120000.0]",schedule_uniques,Вахтовый метод,1
+"(80000.0, 120000.0]",key_skills_uniques,JavaScript,26
+"(80000.0, 120000.0]",key_skills_uniques,PHP,23
+"(80000.0, 120000.0]",key_skills_uniques,Git,21
+"(80000.0, 120000.0]",key_skills_uniques,MySQL,19
+"(80000.0, 120000.0]",key_skills_uniques,HTML,18
+"(80000.0, 120000.0]",key_skills_uniques,SQL,16
+"(80000.0, 120000.0]",key_skills_uniques,CSS,15
+"(80000.0, 120000.0]",key_skills_uniques,jQuery,12
+"(80000.0, 120000.0]",key_skills_uniques,PostgreSQL,11
+"(80000.0, 120000.0]",key_skills_uniques,Linux,11
+"(80000.0, 120000.0]",key_skills_uniques,ООП,11
+"(80000.0, 120000.0]",key_skills_uniques,HTML5,9
+"(80000.0, 120000.0]",key_skills_uniques,1С-Битрикс,9
+"(80000.0, 120000.0]",key_skills_uniques,Ajax,8
+"(80000.0, 120000.0]",key_skills_uniques,CSS3,8
+"(80000.0, 120000.0]",key_skills_uniques,PHP5,6
+"(80000.0, 120000.0]",key_skills_uniques,Nginx,6
+"(80000.0, 120000.0]",key_skills_uniques,Java,5
+"(80000.0, 120000.0]",key_skills_uniques,Docker,5
+"(80000.0, 120000.0]",key_skills_uniques,Python,5
+"(80000.0, 120000.0]",key_skills_uniques,1С: Предприятие 8,4
+"(80000.0, 120000.0]",key_skills_uniques,SVN,4
+"(80000.0, 120000.0]",key_skills_uniques,Apache HTTP Server,4
+"(80000.0, 120000.0]",key_skills_uniques,1С программирование,4
+"(80000.0, 120000.0]",key_skills_uniques,MS SQL Server,3
+"(80000.0, 120000.0]",key_skills_uniques,1С: Бухгалтерия,3
+"(80000.0, 120000.0]",key_skills_uniques,Node.js,3
+"(80000.0, 120000.0]",key_skills_uniques,1С: Розница,3
+"(80000.0, 120000.0]",key_skills_uniques,Bootstrap,3
+"(80000.0, 120000.0]",key_skills_uniques,1С: Документооборот,3
+"(80000.0, 120000.0]",key_skills_uniques,Веб-программирование,3
+"(80000.0, 120000.0]",key_skills_uniques,RabbitMQ,3
+"(80000.0, 120000.0]",key_skills_uniques,C#,3
+"(80000.0, 120000.0]",key_skills_uniques,MVC,3
+"(80000.0, 120000.0]",key_skills_uniques,Transact-SQL,3
+"(80000.0, 120000.0]",key_skills_uniques,XML,3
+"(80000.0, 120000.0]",key_skills_uniques,Django Framework,3
+"(80000.0, 120000.0]",key_skills_uniques,MongoDB,3
+"(80000.0, 120000.0]",key_skills_uniques,Yii,3
+"(80000.0, 120000.0]",key_skills_uniques,Ruby On Rails,2
+"(80000.0, 120000.0]",key_skills_uniques,Adobe Photoshop,2
+"(80000.0, 120000.0]",key_skills_uniques,1С: Комплексная автоматизация,2
+"(80000.0, 120000.0]",key_skills_uniques,Базы данных,2
+"(80000.0, 120000.0]",key_skills_uniques,SEO,2
+"(80000.0, 120000.0]",key_skills_uniques,Angular,2
+"(80000.0, 120000.0]",key_skills_uniques,1С: Управление Торговлей,2
+"(80000.0, 120000.0]",key_skills_uniques,MS Visual Studio,2
+"(80000.0, 120000.0]",key_skills_uniques,C++,2
+"(80000.0, 120000.0]",key_skills_uniques,Rx,2
+"(80000.0, 120000.0]",key_skills_uniques,Kubernetes,2
+"(80000.0, 120000.0]",key_skills_uniques,WPF,2
+"(80000.0, 120000.0]",key_skills_uniques,Vue,2
+"(80000.0, 120000.0]",key_skills_uniques,Spring Framework,2
+"(80000.0, 120000.0]",key_skills_uniques,1С: Зарплата и управление персоналом,2
+"(80000.0, 120000.0]",key_skills_uniques,MS SQL,2
+"(80000.0, 120000.0]",key_skills_uniques,CMS Wordpress,2
+"(80000.0, 120000.0]",key_skills_uniques,Redis,2
+"(80000.0, 120000.0]",key_skills_uniques,Администрирование сайтов,2
+"(80000.0, 120000.0]",key_skills_uniques,CRM,2
+"(80000.0, 120000.0]",key_skills_uniques,.NET Framework,2
+"(80000.0, 120000.0]",key_skills_uniques,Laravel,2
+"(80000.0, 120000.0]",key_skills_uniques,Symfony,2
+"(80000.0, 120000.0]",key_skills_uniques,Entity Framework,2
+"(80000.0, 120000.0]",key_skills_uniques,адаптивная верстка,2
+"(80000.0, 120000.0]",key_skills_uniques,React,2
+"(80000.0, 120000.0]",key_skills_uniques,ngrx,2
+"(80000.0, 120000.0]",key_skills_uniques,1C: Бухгалтерия,2
+"(80000.0, 120000.0]",key_skills_uniques,Visual Studio C#,1
+"(80000.0, 120000.0]",key_skills_uniques,Scss,1
+"(80000.0, 120000.0]",key_skills_uniques,Kotlin,1
+"(80000.0, 120000.0]",key_skills_uniques,Windows,1
+"(80000.0, 120000.0]",key_skills_uniques,Jetbrains Phpstorm,1
+"(80000.0, 120000.0]",key_skills_uniques,Qt,1
+"(80000.0, 120000.0]",key_skills_uniques,API,1
+"(80000.0, 120000.0]",key_skills_uniques,TFS,1
+"(80000.0, 120000.0]",key_skills_uniques,TiaPortal,1
+"(80000.0, 120000.0]",key_skills_uniques,Графический интерфейс пользователя,1
+"(80000.0, 120000.0]",key_skills_uniques,Frontend,1
+"(80000.0, 120000.0]",key_skills_uniques,ASP.NET,1
+"(80000.0, 120000.0]",key_skills_uniques,Delphi,1
+"(80000.0, 120000.0]",key_skills_uniques,Консультирование,1
+"(80000.0, 120000.0]",key_skills_uniques,Sass,1
+"(80000.0, 120000.0]",key_skills_uniques,Желание развиваться,1
+"(80000.0, 120000.0]",key_skills_uniques,Vue.js,1
+"(80000.0, 120000.0]",key_skills_uniques,Siemens,1
+"(80000.0, 120000.0]",key_skills_uniques,Apache Maven,1
+"(80000.0, 120000.0]",key_skills_uniques,Swift,1
+"(80000.0, 120000.0]",key_skills_uniques,HMI,1
+"(80000.0, 120000.0]",key_skills_uniques,Создание сайтов,1
+"(80000.0, 120000.0]",key_skills_uniques,Ruby,1
+"(80000.0, 120000.0]",key_skills_uniques,ERP-системы на базе 1С,1
+"(80000.0, 120000.0]",key_skills_uniques,Валидная верстка,1
+"(80000.0, 120000.0]",key_skills_uniques,Ответственность,1
+"(80000.0, 120000.0]",key_skills_uniques,Version Control System,1
+"(80000.0, 120000.0]",key_skills_uniques,Unit Testing,1
+"(80000.0, 120000.0]",key_skills_uniques,программирование,1
+"(80000.0, 120000.0]",key_skills_uniques,Пуско-наладочные работы,1
+"(80000.0, 120000.0]",key_skills_uniques,С#,1
+"(80000.0, 120000.0]",key_skills_uniques,redux,1
+"(80000.0, 120000.0]",key_skills_uniques,UiKitten,1
+"(80000.0, 120000.0]",key_skills_uniques,Embarcadero Delphi,1
+"(80000.0, 120000.0]",key_skills_uniques,Zabbix,1
+"(80000.0, 120000.0]",key_skills_uniques,разработка приложения,1
+"(80000.0, 120000.0]",key_skills_uniques,CoffeeScript,1
+"(80000.0, 120000.0]",key_skills_uniques,Внимательность,1
+"(80000.0, 120000.0]",key_skills_uniques,Sphinx,1
+"(80000.0, 120000.0]",key_skills_uniques,AWS,1
+"(80000.0, 120000.0]",key_skills_uniques,Developer Express,1
+"(80000.0, 120000.0]",key_skills_uniques,CEF3,1
+"(80000.0, 120000.0]",key_skills_uniques,RN,1
+"(80000.0, 120000.0]",key_skills_uniques,Системы видеонаблюдения,1
+"(80000.0, 120000.0]",key_skills_uniques,JUnit,1
+"(80000.0, 120000.0]",key_skills_uniques,DirectX,1
+"(80000.0, 120000.0]",key_skills_uniques,Yii2,1
+"(80000.0, 120000.0]",key_skills_uniques,Серверное программирование,1
+"(80000.0, 120000.0]",key_skills_uniques,Разработка ПО,1
+"(80000.0, 120000.0]",key_skills_uniques,Chromium Embedded Framework,1
+"(80000.0, 120000.0]",key_skills_uniques,Oracle Pl/SQL,1
+"(80000.0, 120000.0]",key_skills_uniques,Верстка,1
+"(80000.0, 120000.0]",key_skills_uniques,Управляемые формы,1
+"(80000.0, 120000.0]",key_skills_uniques,Умение разбираться в чужом коде,1
+"(80000.0, 120000.0]",key_skills_uniques,Salesforce,1
+"(80000.0, 120000.0]",key_skills_uniques,Управление командой,1
+"(80000.0, 120000.0]",key_skills_uniques,регулярные выражения,1
+"(80000.0, 120000.0]",key_skills_uniques,Windows Forms,1
+"(80000.0, 120000.0]",key_skills_uniques,LINQ,1
+"(80000.0, 120000.0]",key_skills_uniques,PHP7,1
+"(80000.0, 120000.0]",key_skills_uniques,ElasticSearch,1
+"(80000.0, 120000.0]",key_skills_uniques,1С: Торговля,1
+"(80000.0, 120000.0]",key_skills_uniques,Android,1
+"(80000.0, 120000.0]",key_skills_uniques,распознавание лиц,1
+"(80000.0, 120000.0]",key_skills_uniques,Less,1
+"(80000.0, 120000.0]",key_skills_uniques,aws,1
+"(80000.0, 120000.0]",key_skills_uniques,Тестирование,1
+"(80000.0, 120000.0]",key_skills_uniques,GUI,1
+"(80000.0, 120000.0]",key_skills_uniques,UE4,1
+"(80000.0, 120000.0]",key_skills_uniques,phpMyAdmin,1
+"(80000.0, 120000.0]",key_skills_uniques,woocommerce,1
+"(80000.0, 120000.0]",key_skills_uniques,Django REST Framework,1
+"(80000.0, 120000.0]",key_skills_uniques,Десктопные приложения,1
+"(80000.0, 120000.0]",key_skills_uniques,СКД,1
+"(80000.0, 120000.0]",key_skills_uniques,Step 7,1
+"(80000.0, 120000.0]",key_skills_uniques,yii2,1
+"(80000.0, 120000.0]",key_skills_uniques,HTTP,1
+"(80000.0, 120000.0]",key_skills_uniques,JavaFX,1
+"(80000.0, 120000.0]",key_skills_uniques,"программирование контроллеров, внедрение и поддержка проектов по автоматизации",1
+"(80000.0, 120000.0]",key_skills_uniques,1С: Управление Производственным Предприятием,1
+"(80000.0, 120000.0]",key_skills_uniques,Поиск информации в интернет,1
+"(80000.0, 120000.0]",key_skills_uniques,удаленная работа,1
+"(80000.0, 120000.0]",key_skills_uniques,Joomla CMS,1
+"(80000.0, 120000.0]",key_skills_uniques,Nuxt,1
+"(80000.0, 120000.0]",key_skills_uniques,Mercurial,1
+"(80000.0, 120000.0]",key_skills_uniques,Zend Framework,1
+"(80000.0, 120000.0]",key_skills_uniques,SaaS,1
+"(80000.0, 120000.0]",key_skills_uniques,1c bitrix,1
+"(80000.0, 120000.0]",key_skills_uniques,OpenGL,1
+"(80000.0, 120000.0]",key_skills_uniques,Borland Delphi,1
+"(80000.0, 120000.0]",key_skills_uniques,Redmine,1
+"(80000.0, 120000.0]",key_skills_uniques,Visual Basic for Applications,1
+"(80000.0, 120000.0]",key_skills_uniques,GTK,1
+"(80000.0, 120000.0]",key_skills_uniques,ReactNative,1
+"(80000.0, 120000.0]",key_skills_uniques,Системное мышление,1
+"(80000.0, 120000.0]",key_skills_uniques,Обновление конфигурации 1С,1
+"(80000.0, 120000.0]",key_skills_uniques,socketio,1
+"(80000.0, 120000.0]",key_skills_uniques,EclipseLink,1
+"(80000.0, 120000.0]",key_skills_uniques,ORACLE,1
+"(80000.0, 120000.0]",key_skills_uniques,Администрирование серверов Linux,1
+"(80000.0, 120000.0]",key_skills_uniques,Gulp,1
+"(120000.0, 160000.0]",salary_from_uniques,0.0,19
+"(120000.0, 160000.0]",salary_from_uniques,100000.0,18
+"(120000.0, 160000.0]",salary_from_uniques,120000.0,17
+"(120000.0, 160000.0]",salary_from_uniques,80000.0,13
+"(120000.0, 160000.0]",salary_from_uniques,60000.0,6
+"(120000.0, 160000.0]",salary_from_uniques,140000.0,5
+"(120000.0, 160000.0]",salary_from_uniques,150000.0,4
+"(120000.0, 160000.0]",salary_from_uniques,110000.0,4
+"(120000.0, 160000.0]",salary_from_uniques,90000.0,4
+"(120000.0, 160000.0]",salary_from_uniques,130000.0,3
+"(120000.0, 160000.0]",salary_from_uniques,70000.0,2
+"(120000.0, 160000.0]",salary_from_uniques,115000.0,1
+"(120000.0, 160000.0]",salary_from_uniques,95000.0,1
+"(120000.0, 160000.0]",salary_from_uniques,25000.0,1
+"(120000.0, 160000.0]",salary_from_uniques,75000.0,1
+"(120000.0, 160000.0]",salary_from_uniques,160000.0,1
+"(120000.0, 160000.0]",salary_to_uniques,150000.0,59
+"(120000.0, 160000.0]",salary_to_uniques,140000.0,16
+"(120000.0, 160000.0]",salary_to_uniques,160000.0,13
+"(120000.0, 160000.0]",salary_to_uniques,130000.0,12
+"(120000.0, 160000.0]",experience_uniques,От 1 года до 3 лет,55
+"(120000.0, 160000.0]",experience_uniques,От 3 до 6 лет,38
+"(120000.0, 160000.0]",experience_uniques,Нет опыта,6
+"(120000.0, 160000.0]",experience_uniques,Более 6 лет,1
+"(120000.0, 160000.0]",employment_uniques,Полная занятость,97
+"(120000.0, 160000.0]",employment_uniques,Проектная работа,2
+"(120000.0, 160000.0]",employment_uniques,Частичная занятость,1
+"(120000.0, 160000.0]",schedule_uniques,Полный день,77
+"(120000.0, 160000.0]",schedule_uniques,Удаленная работа,15
+"(120000.0, 160000.0]",schedule_uniques,Гибкий график,8
+"(120000.0, 160000.0]",key_skills_uniques,Git,29
+"(120000.0, 160000.0]",key_skills_uniques,JavaScript,27
+"(120000.0, 160000.0]",key_skills_uniques,C#,16
+"(120000.0, 160000.0]",key_skills_uniques,CSS,16
+"(120000.0, 160000.0]",key_skills_uniques,PostgreSQL,16
+"(120000.0, 160000.0]",key_skills_uniques,Python,14
+"(120000.0, 160000.0]",key_skills_uniques,HTML,14
+"(120000.0, 160000.0]",key_skills_uniques,PHP,13
+"(120000.0, 160000.0]",key_skills_uniques,SQL,12
+"(120000.0, 160000.0]",key_skills_uniques,MySQL,12
+"(120000.0, 160000.0]",key_skills_uniques,CSS3,11
+"(120000.0, 160000.0]",key_skills_uniques,C++,11
+"(120000.0, 160000.0]",key_skills_uniques,ООП,11
+"(120000.0, 160000.0]",key_skills_uniques,HTML5,10
+"(120000.0, 160000.0]",key_skills_uniques,.NET Framework,9
+"(120000.0, 160000.0]",key_skills_uniques,Linux,9
+"(120000.0, 160000.0]",key_skills_uniques,jQuery,9
+"(120000.0, 160000.0]",key_skills_uniques,PHP5,7
+"(120000.0, 160000.0]",key_skills_uniques,MS SQL Server,6
+"(120000.0, 160000.0]",key_skills_uniques,MS SQL,6
+"(120000.0, 160000.0]",key_skills_uniques,MVC,6
+"(120000.0, 160000.0]",key_skills_uniques,Java,5
+"(120000.0, 160000.0]",key_skills_uniques,Ajax,5
+"(120000.0, 160000.0]",key_skills_uniques,1С-Битрикс,4
+"(120000.0, 160000.0]",key_skills_uniques,Node.js,4
+"(120000.0, 160000.0]",key_skills_uniques,MS Visual Studio,4
+"(120000.0, 160000.0]",key_skills_uniques,1С программирование,4
+"(120000.0, 160000.0]",key_skills_uniques,STM32,4
+"(120000.0, 160000.0]",key_skills_uniques,Разработка ПО,4
+"(120000.0, 160000.0]",key_skills_uniques,ASP.NET,4
+"(120000.0, 160000.0]",key_skills_uniques,1С: Зарплата и управление персоналом,4
+"(120000.0, 160000.0]",key_skills_uniques,1С: Управление Производственным Предприятием,3
+"(120000.0, 160000.0]",key_skills_uniques,Transact-SQL,3
+"(120000.0, 160000.0]",key_skills_uniques,Oracle Pl/SQL,3
+"(120000.0, 160000.0]",key_skills_uniques,Bootstrap,3
+"(120000.0, 160000.0]",key_skills_uniques,React,3
+"(120000.0, 160000.0]",key_skills_uniques,Angular,3
+"(120000.0, 160000.0]",key_skills_uniques,1С: Документооборот,3
+"(120000.0, 160000.0]",key_skills_uniques,Redis,3
+"(120000.0, 160000.0]",key_skills_uniques,AngularJS,3
+"(120000.0, 160000.0]",key_skills_uniques,Atlassian Jira,3
+"(120000.0, 160000.0]",key_skills_uniques,Web Application Development,3
+"(120000.0, 160000.0]",key_skills_uniques,1С: Бухгалтерия,3
+"(120000.0, 160000.0]",key_skills_uniques,Работа с базами данных,2
+"(120000.0, 160000.0]",key_skills_uniques,Веб-программирование,2
+"(120000.0, 160000.0]",key_skills_uniques,Entity Framework,2
+"(120000.0, 160000.0]",key_skills_uniques,Debian,2
+"(120000.0, 160000.0]",key_skills_uniques,1C: Бухгалтерия,2
+"(120000.0, 160000.0]",key_skills_uniques,Nginx,2
+"(120000.0, 160000.0]",key_skills_uniques,ARM,2
+"(120000.0, 160000.0]",key_skills_uniques,PHP7,2
+"(120000.0, 160000.0]",key_skills_uniques,Android,2
+"(120000.0, 160000.0]",key_skills_uniques,MongoDB,2
+"(120000.0, 160000.0]",key_skills_uniques,1С: Управление Торговлей,2
+"(120000.0, 160000.0]",key_skills_uniques,микроконтроллеры,2
+"(120000.0, 160000.0]",key_skills_uniques,Symfony,2
+"(120000.0, 160000.0]",key_skills_uniques,HTTP,2
+"(120000.0, 160000.0]",key_skills_uniques,Microsoft Visual Studio,2
+"(120000.0, 160000.0]",key_skills_uniques,AGV,2
+"(120000.0, 160000.0]",key_skills_uniques,JSON API,2
+"(120000.0, 160000.0]",key_skills_uniques,робот,2
+"(120000.0, 160000.0]",key_skills_uniques,Unity,2
+"(120000.0, 160000.0]",key_skills_uniques,drone,2
+"(120000.0, 160000.0]",key_skills_uniques,Разработка технических заданий,2
+"(120000.0, 160000.0]",key_skills_uniques,Golang,2
+"(120000.0, 160000.0]",key_skills_uniques,Постановка задач разработчикам,2
+"(120000.0, 160000.0]",key_skills_uniques,ПИД,2
+"(120000.0, 160000.0]",key_skills_uniques,.NET Core,2
+"(120000.0, 160000.0]",key_skills_uniques,Docker,2
+"(120000.0, 160000.0]",key_skills_uniques,TypeScript,2
+"(120000.0, 160000.0]",key_skills_uniques,1С: Предприятие 8,2
+"(120000.0, 160000.0]",key_skills_uniques,коптер,2
+"(120000.0, 160000.0]",key_skills_uniques,API,2
+"(120000.0, 160000.0]",key_skills_uniques,калман,2
+"(120000.0, 160000.0]",key_skills_uniques,WPF,2
+"(120000.0, 160000.0]",key_skills_uniques,TFS,2
+"(120000.0, 160000.0]",key_skills_uniques,UIKit,1
+"(120000.0, 160000.0]",key_skills_uniques,Spring boot,1
+"(120000.0, 160000.0]",key_skills_uniques,ElasticSearch,1
+"(120000.0, 160000.0]",key_skills_uniques,vue,1
+"(120000.0, 160000.0]",key_skills_uniques,Gnu C++,1
+"(120000.0, 160000.0]",key_skills_uniques,Apache Maven,1
+"(120000.0, 160000.0]",key_skills_uniques,MS Office,1
+"(120000.0, 160000.0]",key_skills_uniques,VR,1
+"(120000.0, 160000.0]",key_skills_uniques,цифровые фильтры,1
+"(120000.0, 160000.0]",key_skills_uniques,ReactJS,1
+"(120000.0, 160000.0]",key_skills_uniques,Memcached,1
+"(120000.0, 160000.0]",key_skills_uniques,Kinect,1
+"(120000.0, 160000.0]",key_skills_uniques,Elastic,1
+"(120000.0, 160000.0]",key_skills_uniques,квадрокоптер,1
+"(120000.0, 160000.0]",key_skills_uniques,Pascal,1
+"(120000.0, 160000.0]",key_skills_uniques,iOS,1
+"(120000.0, 160000.0]",key_skills_uniques,DoxyGen,1
+"(120000.0, 160000.0]",key_skills_uniques,Sass,1
+"(120000.0, 160000.0]",key_skills_uniques,VBA,1
+"(120000.0, 160000.0]",key_skills_uniques,Ruby,1
+"(120000.0, 160000.0]",key_skills_uniques,Android SDK,1
+"(120000.0, 160000.0]",key_skills_uniques,Redux,1
+"(120000.0, 160000.0]",key_skills_uniques,1С: Комплексная автоматизация,1
+"(120000.0, 160000.0]",key_skills_uniques,Qt,1
+"(120000.0, 160000.0]",key_skills_uniques,Ubuntu Server,1
+"(120000.0, 160000.0]",key_skills_uniques,Delphi,1
+"(120000.0, 160000.0]",key_skills_uniques,Руководство коллективом,1
+"(120000.0, 160000.0]",key_skills_uniques,virtual reality,1
+"(120000.0, 160000.0]",key_skills_uniques,виртуальная реальность,1
+"(120000.0, 160000.0]",key_skills_uniques,Android studio,1
+"(120000.0, 160000.0]",key_skills_uniques,.net core,1
+"(120000.0, 160000.0]",key_skills_uniques,Flux,1
+"(120000.0, 160000.0]",key_skills_uniques,База данных: Oracle,1
+"(120000.0, 160000.0]",key_skills_uniques,Java EE,1
+"(120000.0, 160000.0]",key_skills_uniques,LAMP,1
+"(120000.0, 160000.0]",key_skills_uniques,Java 8,1
+"(120000.0, 160000.0]",key_skills_uniques,UAV,1
+"(120000.0, 160000.0]",key_skills_uniques,Nomad,1
+"(120000.0, 160000.0]",key_skills_uniques,Ruby On Rails,1
+"(120000.0, 160000.0]",key_skills_uniques,Yii,1
+"(120000.0, 160000.0]",key_skills_uniques,MS Visual Basic,1
+"(120000.0, 160000.0]",key_skills_uniques,Microsoft Access,1
+"(120000.0, 160000.0]",key_skills_uniques,Разработка компьютерных Игр,1
+"(120000.0, 160000.0]",key_skills_uniques,CentOS,1
+"(120000.0, 160000.0]",key_skills_uniques,Пользователь ПК,1
+"(120000.0, 160000.0]",key_skills_uniques,pug,1
+"(120000.0, 160000.0]",key_skills_uniques,gamedev,1
+"(120000.0, 160000.0]",key_skills_uniques,STL,1
+"(120000.0, 160000.0]",key_skills_uniques,Django,1
+"(120000.0, 160000.0]",key_skills_uniques,Blueprints,1
+"(120000.0, 160000.0]",key_skills_uniques,ЦОС,1
+"(120000.0, 160000.0]",key_skills_uniques,react,1
+"(120000.0, 160000.0]",key_skills_uniques,bitbacket,1
+"(120000.0, 160000.0]",key_skills_uniques,дополненная реальность,1
+"(120000.0, 160000.0]",key_skills_uniques,ORACLE,1
+"(120000.0, 160000.0]",key_skills_uniques,Бухгалтерский учет,1
+"(120000.0, 160000.0]",key_skills_uniques,Apache HTTP Server,1
+"(120000.0, 160000.0]",key_skills_uniques,LINQ,1
+"(120000.0, 160000.0]",key_skills_uniques,swift,1
+"(120000.0, 160000.0]",key_skills_uniques,Game Programming,1
+"(120000.0, 160000.0]",key_skills_uniques,Less,1
+"(120000.0, 160000.0]",key_skills_uniques,Bash,1
+"(120000.0, 160000.0]",key_skills_uniques,Django Framework,1
+"(120000.0, 160000.0]",key_skills_uniques,Sphinx,1
+"(120000.0, 160000.0]",key_skills_uniques,Многопоточное приложение,1
+"(120000.0, 160000.0]",key_skills_uniques,Английский язык,1
+"(120000.0, 160000.0]",key_skills_uniques,Scrum,1
+"(120000.0, 160000.0]",key_skills_uniques,Yii2,1
+"(120000.0, 160000.0]",key_skills_uniques,Realm,1
+"(120000.0, 160000.0]",key_skills_uniques,1С: Торговля,1
+"(120000.0, 160000.0]",key_skills_uniques,RabbitMQ,1
+"(120000.0, 160000.0]",key_skills_uniques,Zend Framework,1
+"(120000.0, 160000.0]",key_skills_uniques,DSP,1
+"(120000.0, 160000.0]",key_skills_uniques,RXJava,1
+"(120000.0, 160000.0]",key_skills_uniques,Unreal Engine,1
+"(120000.0, 160000.0]",key_skills_uniques,Kotlin,1
+"(120000.0, 160000.0]",key_skills_uniques,cocos2d,1
+"(120000.0, 160000.0]",key_skills_uniques,Blazor,1
+"(120000.0, 160000.0]",key_skills_uniques,Unreal Engine 4,1
+"(120000.0, 160000.0]",key_skills_uniques,MVVM,1
+"(120000.0, 160000.0]",key_skills_uniques,Windows Forms,1
+"(120000.0, 160000.0]",key_skills_uniques,GCD,1
+"(120000.0, 160000.0]",key_skills_uniques,Zabbix,1
+"(120000.0, 160000.0]",key_skills_uniques,MS Access,1
+"(120000.0, 160000.0]",key_skills_uniques,Flask,1
+"(120000.0, 160000.0]",key_skills_uniques,core data,1
+"(120000.0, 160000.0]",key_skills_uniques,C/C++,1
+"(120000.0, 160000.0]",key_skills_uniques,AR,1
+"(120000.0, 160000.0]",key_skills_uniques,Нейронные сети,1
+"(120000.0, 160000.0]",key_skills_uniques,OpenGL,1
+"(120000.0, 160000.0]",key_skills_uniques,Управление проектами,1
+"(120000.0, 160000.0]",key_skills_uniques,Rx,1
+"(120000.0, 160000.0]",key_skills_uniques,UE4,1
+"(120000.0, 160000.0]",key_skills_uniques,Celery,1
+"(120000.0, 160000.0]",key_skills_uniques,Bitrix,1
+"(120000.0, 160000.0]",key_skills_uniques,SCALA,1
+"(120000.0, 160000.0]",key_skills_uniques,Разработка нового продукта,1
+"(120000.0, 160000.0]",key_skills_uniques,Vue,1
+"(120000.0, 160000.0]",key_skills_uniques,React 16.8,1
+"(120000.0, 160000.0]",key_skills_uniques,j2ee,1
+"(120000.0, 160000.0]",key_skills_uniques,F#,1
+"(120000.0, 160000.0]",key_skills_uniques,game design,1
+"(120000.0, 160000.0]",key_skills_uniques,SVN,1
+"(120000.0, 160000.0]",key_skills_uniques,MS Project Expert,1
+"(120000.0, 160000.0]",key_skills_uniques,Swing,1
+"(120000.0, 160000.0]",key_skills_uniques,"C/C++, MFC/QT, Разработка ПО",1
+"(120000.0, 160000.0]",key_skills_uniques,1с,1
+"(120000.0, 160000.0]",key_skills_uniques,цифровая обработка,1
+"(120000.0, 160000.0]",key_skills_uniques,Webpack,1
+"(120000.0, 160000.0]",key_skills_uniques,gRPC,1
+"(120000.0, 160000.0]",key_skills_uniques,ASP.NET Core,1
+"(120000.0, 160000.0]",key_skills_uniques,Oculus,1
+"(120000.0, 160000.0]",key_skills_uniques,Azure DevOps Server,1
+"(120000.0, 160000.0]",key_skills_uniques,Xcode,1
+"(120000.0, 160000.0]",key_skills_uniques,Vue.js,1
+"(120000.0, 160000.0]",key_skills_uniques,Rest api,1
+"(120000.0, 160000.0]",key_skills_uniques,SOLID,1
+"(120000.0, 160000.0]",key_skills_uniques,XML,1
+"(120000.0, 160000.0]",key_skills_uniques,Gulp,1
+"(160000.0, 200000.0]",salary_from_uniques,0.0,19
+"(160000.0, 200000.0]",salary_from_uniques,120000.0,18
+"(160000.0, 200000.0]",salary_from_uniques,150000.0,14
+"(160000.0, 200000.0]",salary_from_uniques,100000.0,14
+"(160000.0, 200000.0]",salary_from_uniques,140000.0,5
+"(160000.0, 200000.0]",salary_from_uniques,160000.0,4
+"(160000.0, 200000.0]",salary_from_uniques,80000.0,3
+"(160000.0, 200000.0]",salary_from_uniques,130000.0,2
+"(160000.0, 200000.0]",salary_from_uniques,170000.0,1
+"(160000.0, 200000.0]",salary_from_uniques,110000.0,1
+"(160000.0, 200000.0]",salary_to_uniques,200000.0,43
+"(160000.0, 200000.0]",salary_to_uniques,180000.0,22
+"(160000.0, 200000.0]",salary_to_uniques,170000.0,12
+"(160000.0, 200000.0]",salary_to_uniques,190000.0,2
+"(160000.0, 200000.0]",salary_to_uniques,175000.0,1
+"(160000.0, 200000.0]",salary_to_uniques,165000.0,1
+"(160000.0, 200000.0]",experience_uniques,От 3 до 6 лет,37
+"(160000.0, 200000.0]",experience_uniques,От 1 года до 3 лет,36
+"(160000.0, 200000.0]",experience_uniques,Нет опыта,5
+"(160000.0, 200000.0]",experience_uniques,Более 6 лет,3
+"(160000.0, 200000.0]",employment_uniques,Полная занятость,80
+"(160000.0, 200000.0]",employment_uniques,Частичная занятость,1
+"(160000.0, 200000.0]",schedule_uniques,Полный день,60
+"(160000.0, 200000.0]",schedule_uniques,Удаленная работа,11
+"(160000.0, 200000.0]",schedule_uniques,Гибкий график,10
+"(160000.0, 200000.0]",key_skills_uniques,Git,22
+"(160000.0, 200000.0]",key_skills_uniques,JavaScript,21
+"(160000.0, 200000.0]",key_skills_uniques,MySQL,12
+"(160000.0, 200000.0]",key_skills_uniques,PHP,11
+"(160000.0, 200000.0]",key_skills_uniques,PostgreSQL,11
+"(160000.0, 200000.0]",key_skills_uniques,SQL,11
+"(160000.0, 200000.0]",key_skills_uniques,1С программирование,10
+"(160000.0, 200000.0]",key_skills_uniques,HTML,8
+"(160000.0, 200000.0]",key_skills_uniques,C#,8
+"(160000.0, 200000.0]",key_skills_uniques,jQuery,7
+"(160000.0, 200000.0]",key_skills_uniques,ООП,7
+"(160000.0, 200000.0]",key_skills_uniques,Linux,7
+"(160000.0, 200000.0]",key_skills_uniques,React,6
+"(160000.0, 200000.0]",key_skills_uniques,HTML5,6
+"(160000.0, 200000.0]",key_skills_uniques,1С: Предприятие 8,6
+"(160000.0, 200000.0]",key_skills_uniques,MongoDB,6
+"(160000.0, 200000.0]",key_skills_uniques,Node.js,6
+"(160000.0, 200000.0]",key_skills_uniques,Java,6
+"(160000.0, 200000.0]",key_skills_uniques,AngularJS,6
+"(160000.0, 200000.0]",key_skills_uniques,CSS,6
+"(160000.0, 200000.0]",key_skills_uniques,CSS3,5
+"(160000.0, 200000.0]",key_skills_uniques,MS SQL,5
+"(160000.0, 200000.0]",key_skills_uniques,ASP.NET,4
+"(160000.0, 200000.0]",key_skills_uniques,Redis,4
+"(160000.0, 200000.0]",key_skills_uniques,PHP5,4
+"(160000.0, 200000.0]",key_skills_uniques,.NET Framework,4
+"(160000.0, 200000.0]",key_skills_uniques,1С: Бухгалтерия,4
+"(160000.0, 200000.0]",key_skills_uniques,Hibernate ORM,4
+"(160000.0, 200000.0]",key_skills_uniques,1С: Управление Торговлей,4
+"(160000.0, 200000.0]",key_skills_uniques,Symfony,4
+"(160000.0, 200000.0]",key_skills_uniques,REST,4
+"(160000.0, 200000.0]",key_skills_uniques,Обновление конфигурации 1С,4
+"(160000.0, 200000.0]",key_skills_uniques,Разработка ПО,3
+"(160000.0, 200000.0]",key_skills_uniques,Bootstrap,3
+"(160000.0, 200000.0]",key_skills_uniques,C++,3
+"(160000.0, 200000.0]",key_skills_uniques,Python,3
+"(160000.0, 200000.0]",key_skills_uniques,Django Framework,3
+"(160000.0, 200000.0]",key_skills_uniques,Spring Framework,3
+"(160000.0, 200000.0]",key_skills_uniques,Golang,3
+"(160000.0, 200000.0]",key_skills_uniques,1С: Зарплата и управление персоналом,3
+"(160000.0, 200000.0]",key_skills_uniques,1С: Зарплата и кадры,3
+"(160000.0, 200000.0]",key_skills_uniques,Docker,3
+"(160000.0, 200000.0]",key_skills_uniques,1С: Управление Производственным Предприятием,3
+"(160000.0, 200000.0]",key_skills_uniques,Nginx,2
+"(160000.0, 200000.0]",key_skills_uniques,JSON,2
+"(160000.0, 200000.0]",key_skills_uniques,MS Visual Studio,2
+"(160000.0, 200000.0]",key_skills_uniques,ORACLE,2
+"(160000.0, 200000.0]",key_skills_uniques,Atlassian Jira,2
+"(160000.0, 200000.0]",key_skills_uniques,1С: Торговля,2
+"(160000.0, 200000.0]",key_skills_uniques,webpack,2
+"(160000.0, 200000.0]",key_skills_uniques,TypeScript,2
+"(160000.0, 200000.0]",key_skills_uniques,1C: Бухгалтерия,2
+"(160000.0, 200000.0]",key_skills_uniques,Yii2,2
+"(160000.0, 200000.0]",key_skills_uniques,Unix,2
+"(160000.0, 200000.0]",key_skills_uniques,iOS,2
+"(160000.0, 200000.0]",key_skills_uniques,1С: Торговля и склад,2
+"(160000.0, 200000.0]",key_skills_uniques,1С: Производство,2
+"(160000.0, 200000.0]",key_skills_uniques,react,2
+"(160000.0, 200000.0]",key_skills_uniques,Английский язык,2
+"(160000.0, 200000.0]",key_skills_uniques,Redux,2
+"(160000.0, 200000.0]",key_skills_uniques,MS SQL Server,2
+"(160000.0, 200000.0]",key_skills_uniques,MVC,2
+"(160000.0, 200000.0]",key_skills_uniques,C/C++,2
+"(160000.0, 200000.0]",key_skills_uniques,Веб-программирование,2
+"(160000.0, 200000.0]",key_skills_uniques,Entity Framework,2
+"(160000.0, 200000.0]",key_skills_uniques,"Знание Angular, JavaScript, TypeScript",1
+"(160000.0, 200000.0]",key_skills_uniques,Adobe Photoshop,1
+"(160000.0, 200000.0]",key_skills_uniques,Magento,1
+"(160000.0, 200000.0]",key_skills_uniques,PHPMetrics,1
+"(160000.0, 200000.0]",key_skills_uniques,.NET Core,1
+"(160000.0, 200000.0]",key_skills_uniques,Hazelcast,1
+"(160000.0, 200000.0]",key_skills_uniques,ReactJS,1
+"(160000.0, 200000.0]",key_skills_uniques,Kinect,1
+"(160000.0, 200000.0]",key_skills_uniques,TPL,1
+"(160000.0, 200000.0]",key_skills_uniques,Yii,1
+"(160000.0, 200000.0]",key_skills_uniques,1С: Склад,1
+"(160000.0, 200000.0]",key_skills_uniques,"Уверенное владение HTML5, CSS3",1
+"(160000.0, 200000.0]",key_skills_uniques,WPF,1
+"(160000.0, 200000.0]",key_skills_uniques,KMongo,1
+"(160000.0, 200000.0]",key_skills_uniques,Azure DevOps Server,1
+"(160000.0, 200000.0]",key_skills_uniques,Laravel,1
+"(160000.0, 200000.0]",key_skills_uniques,Apache Maven,1
+"(160000.0, 200000.0]",key_skills_uniques,разработчик 1С,1
+"(160000.0, 200000.0]",key_skills_uniques,.net core,1
+"(160000.0, 200000.0]",key_skills_uniques,CRM,1
+"(160000.0, 200000.0]",key_skills_uniques,1С: Комплексная автоматизация,1
+"(160000.0, 200000.0]",key_skills_uniques,Angular,1
+"(160000.0, 200000.0]",key_skills_uniques,Objective-C,1
+"(160000.0, 200000.0]",key_skills_uniques,1С: Предприятие: Бухгалтерский Учет,1
+"(160000.0, 200000.0]",key_skills_uniques,Ruby,1
+"(160000.0, 200000.0]",key_skills_uniques,программирование,1
+"(160000.0, 200000.0]",key_skills_uniques,firebase,1
+"(160000.0, 200000.0]",key_skills_uniques,Аналитическое мышление,1
+"(160000.0, 200000.0]",key_skills_uniques,SQL Server,1
+"(160000.0, 200000.0]",key_skills_uniques,Java EE,1
+"(160000.0, 200000.0]",key_skills_uniques,CMS Wordpress,1
+"(160000.0, 200000.0]",key_skills_uniques,СУБД,1
+"(160000.0, 200000.0]",key_skills_uniques,Go,1
+"(160000.0, 200000.0]",key_skills_uniques,Менеджмент,1
+"(160000.0, 200000.0]",key_skills_uniques,XML,1
+"(160000.0, 200000.0]",key_skills_uniques,Angular 2.0,1
+"(160000.0, 200000.0]",key_skills_uniques,Внутренний контроль,1
+"(160000.0, 200000.0]",key_skills_uniques,NetCat,1
+"(160000.0, 200000.0]",key_skills_uniques,Android,1
+"(160000.0, 200000.0]",key_skills_uniques,доработка,1
+"(160000.0, 200000.0]",key_skills_uniques,консультант 1С,1
+"(160000.0, 200000.0]",key_skills_uniques,SCALA,1
+"(160000.0, 200000.0]",key_skills_uniques,Joomla CMS,1
+"(160000.0, 200000.0]",key_skills_uniques,Sass,1
+"(160000.0, 200000.0]",key_skills_uniques,Windows Forms,1
+"(160000.0, 200000.0]",key_skills_uniques,Ajax,1
+"(160000.0, 200000.0]",key_skills_uniques,NoSQL,1
+"(160000.0, 200000.0]",key_skills_uniques,docker,1
+"(160000.0, 200000.0]",key_skills_uniques,Java Spring Framework,1
+"(160000.0, 200000.0]",key_skills_uniques,разработка мобильных приложений,1
+"(160000.0, 200000.0]",key_skills_uniques,JS,1
+"(160000.0, 200000.0]",key_skills_uniques,1С: Управление предприятием,1
+"(160000.0, 200000.0]",key_skills_uniques,swift,1
+"(160000.0, 200000.0]",key_skills_uniques,PHPInspections,1
+"(160000.0, 200000.0]",key_skills_uniques,Django,1
+"(160000.0, 200000.0]",key_skills_uniques,MobX,1
+"(160000.0, 200000.0]",key_skills_uniques,STL,1
+"(160000.0, 200000.0]",key_skills_uniques,Oculus,1
+"(160000.0, 200000.0]",key_skills_uniques,asp net core,1
+"(160000.0, 200000.0]",key_skills_uniques,1С-Битрикс,1
+"(160000.0, 200000.0]",key_skills_uniques,AWS,1
+"(160000.0, 200000.0]",key_skills_uniques,1С: Розница,1
+"(160000.0, 200000.0]",key_skills_uniques,API,1
+"(160000.0, 200000.0]",key_skills_uniques,Bash,1
+"(160000.0, 200000.0]",key_skills_uniques,Kotlin,1
+"(160000.0, 200000.0]",key_skills_uniques,babel,1
+"(160000.0, 200000.0]",key_skills_uniques,ERP-системы на базе 1С,1
+"(160000.0, 200000.0]",key_skills_uniques,Developer Express,1
+"(160000.0, 200000.0]",key_skills_uniques,JSON API,1
+"(160000.0, 200000.0]",key_skills_uniques,WCF,1
+"(160000.0, 200000.0]",key_skills_uniques,Автоматизированное рабочее место (АРМ),1
+"(160000.0, 200000.0]",key_skills_uniques,RabbitMQ,1
+"(160000.0, 200000.0]",key_skills_uniques,HighLoad,1
+"(160000.0, 200000.0]",key_skills_uniques,Работа в команде,1
+"(160000.0, 200000.0]",key_skills_uniques,Akka,1
+"(160000.0, 200000.0]",key_skills_uniques,Тестирование,1
+"(160000.0, 200000.0]",key_skills_uniques,написание кодов,1
+"(160000.0, 200000.0]",key_skills_uniques,PHP7,1
+"(160000.0, 200000.0]",key_skills_uniques,БЭМ,1
+"(160000.0, 200000.0]",key_skills_uniques,MariaDB,1
+"(160000.0, 200000.0]",key_skills_uniques,PHPUnit,1
+"(160000.0, 200000.0]",key_skills_uniques,Unity,1
+"(160000.0, 200000.0]",key_skills_uniques,GWT,1
+"(160000.0, 200000.0]",key_skills_uniques,Оптимизация кода,1
+"(160000.0, 200000.0]",key_skills_uniques,JBoss,1
+"(160000.0, 200000.0]",key_skills_uniques,Machine learning,1
+"(160000.0, 200000.0]",key_skills_uniques,Drupal API,1
+"(160000.0, 200000.0]",key_skills_uniques,ModX,1
+"(160000.0, 200000.0]",key_skills_uniques,Blazor,1
+"(160000.0, 200000.0]",key_skills_uniques,TFS,1
+"(160000.0, 200000.0]",key_skills_uniques,LINQ,1
+"(160000.0, 200000.0]",key_skills_uniques,Vanilla.js,1
+"(160000.0, 200000.0]",key_skills_uniques,IIS,1
+"(160000.0, 200000.0]",key_skills_uniques,Ruby On Rails,1
+"(160000.0, 200000.0]",key_skills_uniques,Boost,1
+"(160000.0, 200000.0]",key_skills_uniques,Atlassian Confluence,1
+"(160000.0, 200000.0]",key_skills_uniques,1С: Предприятие,1
+"(160000.0, 200000.0]",key_skills_uniques,ASP.NET Core,1
+"(160000.0, 200000.0]",key_skills_uniques,vue.js,1
+"(160000.0, 200000.0]",key_skills_uniques,Karma/Mocha,1
+"(160000.0, 200000.0]",key_skills_uniques,Базы данных,1
+"(160000.0, 200000.0]",key_skills_uniques,Typescript,1
+"(160000.0, 200000.0]",key_skills_uniques,OpenCart,1
+"(160000.0, 200000.0]",key_skills_uniques,техническая поддержка клиентов,1
+"(160000.0, 200000.0]",key_skills_uniques,Мобильность,1
+"(160000.0, 200000.0]",key_skills_uniques,Умение работать в команде,1
+"(160000.0, 200000.0]",key_skills_uniques,Web-дизайн,1
+"(160000.0, 200000.0]",key_skills_uniques,Управление проектами,1
+"(160000.0, 200000.0]",key_skills_uniques,1С БГУ,1
+"(200000.0, 240000.0]",salary_from_uniques,80000.0,3
+"(200000.0, 240000.0]",salary_from_uniques,0.0,3
+"(200000.0, 240000.0]",salary_from_uniques,135000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,190000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,150000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,200000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,70000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,160000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,120000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,140000.0,1
+"(200000.0, 240000.0]",salary_from_uniques,130000.0,1
+"(200000.0, 240000.0]",salary_to_uniques,220000.0,10
+"(200000.0, 240000.0]",salary_to_uniques,240000.0,2
+"(200000.0, 240000.0]",salary_to_uniques,210000.0,2
+"(200000.0, 240000.0]",salary_to_uniques,230000.0,1
+"(200000.0, 240000.0]",experience_uniques,От 3 до 6 лет,10
+"(200000.0, 240000.0]",experience_uniques,Нет опыта,2
+"(200000.0, 240000.0]",experience_uniques,От 1 года до 3 лет,2
+"(200000.0, 240000.0]",experience_uniques,Более 6 лет,1
+"(200000.0, 240000.0]",employment_uniques,Полная занятость,14
+"(200000.0, 240000.0]",employment_uniques,Частичная занятость,1
+"(200000.0, 240000.0]",schedule_uniques,Полный день,8
+"(200000.0, 240000.0]",schedule_uniques,Удаленная работа,7
+"(200000.0, 240000.0]",key_skills_uniques,JavaScript,5
+"(200000.0, 240000.0]",key_skills_uniques,Git,5
+"(200000.0, 240000.0]",key_skills_uniques,C#,4
+"(200000.0, 240000.0]",key_skills_uniques,CSS,4
+"(200000.0, 240000.0]",key_skills_uniques,PostgreSQL,3
+"(200000.0, 240000.0]",key_skills_uniques,RabbitMQ,3
+"(200000.0, 240000.0]",key_skills_uniques,SQL,3
+"(200000.0, 240000.0]",key_skills_uniques,HTML5,3
+"(200000.0, 240000.0]",key_skills_uniques,Node.js,3
+"(200000.0, 240000.0]",key_skills_uniques,HTML,2
+"(200000.0, 240000.0]",key_skills_uniques,Ajax,2
+"(200000.0, 240000.0]",key_skills_uniques,jQuery,2
+"(200000.0, 240000.0]",key_skills_uniques,Linux,2
+"(200000.0, 240000.0]",key_skills_uniques,ООП,2
+"(200000.0, 240000.0]",key_skills_uniques,1С: Предприятие: Бухгалтерский Учет,1
+"(200000.0, 240000.0]",key_skills_uniques,ASP.NET,1
+"(200000.0, 240000.0]",key_skills_uniques,GitLab,1
+"(200000.0, 240000.0]",key_skills_uniques,MongoDB,1
+"(200000.0, 240000.0]",key_skills_uniques,Gulp,1
+"(200000.0, 240000.0]",key_skills_uniques,CryptoPP,1
+"(200000.0, 240000.0]",key_skills_uniques,1С: Предприятие 8,1
+"(200000.0, 240000.0]",key_skills_uniques,.NET Framework,1
+"(200000.0, 240000.0]",key_skills_uniques,1С: Предприятие,1
+"(200000.0, 240000.0]",key_skills_uniques,Visual Studio C#,1
+"(200000.0, 240000.0]",key_skills_uniques,es6,1
+"(200000.0, 240000.0]",key_skills_uniques,Design Patterns,1
+"(200000.0, 240000.0]",key_skills_uniques,WPF,1
+"(200000.0, 240000.0]",key_skills_uniques,JSP,1
+"(200000.0, 240000.0]",key_skills_uniques,WebStorm,1
+"(200000.0, 240000.0]",key_skills_uniques,webpack,1
+"(200000.0, 240000.0]",key_skills_uniques,Qt,1
+"(200000.0, 240000.0]",key_skills_uniques,Hibernate ORM,1
+"(200000.0, 240000.0]",key_skills_uniques,MVC,1
+"(200000.0, 240000.0]",key_skills_uniques,MFC,1
+"(200000.0, 240000.0]",key_skills_uniques,STL,1
+"(200000.0, 240000.0]",key_skills_uniques,Redux,1
+"(200000.0, 240000.0]",key_skills_uniques,TCP/IP,1
+"(200000.0, 240000.0]",key_skills_uniques,MS SQL Server,1
+"(200000.0, 240000.0]",key_skills_uniques,C++,1
+"(200000.0, 240000.0]",key_skills_uniques,Boost,1
+"(200000.0, 240000.0]",key_skills_uniques,C/C++,1
+"(200000.0, 240000.0]",key_skills_uniques,1С: Управление Торговлей,1
+"(200000.0, 240000.0]",key_skills_uniques,Zepelin,1
+"(200000.0, 240000.0]",key_skills_uniques,CSS3,1
+"(200000.0, 240000.0]",key_skills_uniques,Prime,1
+"(200000.0, 240000.0]",key_skills_uniques,Java,1
+"(200000.0, 240000.0]",key_skills_uniques,1С: Бухгалтерия и склад,1
+"(200000.0, 240000.0]",key_skills_uniques,1C: Бухгалтерия,1
+"(200000.0, 240000.0]",key_skills_uniques,Elasticsearch,1
+"(200000.0, 240000.0]",key_skills_uniques,PHP,1
+"(200000.0, 240000.0]",key_skills_uniques,Clarity,1
+"(200000.0, 240000.0]",key_skills_uniques,Unity,1
+"(200000.0, 240000.0]",key_skills_uniques,Assembler,1
+"(200000.0, 240000.0]",key_skills_uniques,Figma,1
+"(200000.0, 240000.0]",key_skills_uniques,scss,1
+"(200000.0, 240000.0]",key_skills_uniques,Intel Media SDK,1
+"(200000.0, 240000.0]",key_skills_uniques,React.js,1
+"(200000.0, 240000.0]",key_skills_uniques,1С: Бухгалтерия,1
+"(200000.0, 240000.0]",key_skills_uniques,1С: Торговля,1
+"(200000.0, 240000.0]",key_skills_uniques,ffmpeg,1
+"(200000.0, 240000.0]",key_skills_uniques,Entity Framework,1
+"(200000.0, 240000.0]",key_skills_uniques,Sass,1
+"(200000.0, 240000.0]",key_skills_uniques,Redis,1
+"(200000.0, 240000.0]",key_skills_uniques,Разработка технических заданий,1
+"(200000.0, 240000.0]",key_skills_uniques,Английский язык,1
+"(200000.0, 240000.0]",key_skills_uniques,MS Visual Studio,1
+"(200000.0, 240000.0]",key_skills_uniques,1С программирование,1
+"(200000.0, 240000.0]",key_skills_uniques,Bootstrap,1
+"(200000.0, 240000.0]",key_skills_uniques,Обновление конфигурации 1С,1
+"(200000.0, 240000.0]",key_skills_uniques,OpenSSL,1
+"(200000.0, 240000.0]",key_skills_uniques,Material,1
+"(200000.0, 240000.0]",key_skills_uniques,Angular 2+,1
+"(200000.0, 240000.0]",key_skills_uniques,AngularJS,1
+"(240000.0, 280000.0]",salary_from_uniques,150000.0,6
+"(240000.0, 280000.0]",salary_from_uniques,0.0,5
+"(240000.0, 280000.0]",salary_from_uniques,200000.0,4
+"(240000.0, 280000.0]",salary_from_uniques,180000.0,2
+"(240000.0, 280000.0]",salary_from_uniques,250000.0,1
+"(240000.0, 280000.0]",salary_from_uniques,190000.0,1
+"(240000.0, 280000.0]",salary_from_uniques,130000.0,1
+"(240000.0, 280000.0]",salary_from_uniques,170000.0,1
+"(240000.0, 280000.0]",salary_from_uniques,160000.0,1
+"(240000.0, 280000.0]",salary_from_uniques,140000.0,1
+"(240000.0, 280000.0]",salary_from_uniques,120000.0,1
+"(240000.0, 280000.0]",salary_to_uniques,250000.0,20
+"(240000.0, 280000.0]",salary_to_uniques,260000.0,2
+"(240000.0, 280000.0]",salary_to_uniques,270000.0,1
+"(240000.0, 280000.0]",salary_to_uniques,280000.0,1
+"(240000.0, 280000.0]",experience_uniques,От 3 до 6 лет,12
+"(240000.0, 280000.0]",experience_uniques,От 1 года до 3 лет,9
+"(240000.0, 280000.0]",experience_uniques,Более 6 лет,2
+"(240000.0, 280000.0]",experience_uniques,Нет опыта,1
+"(240000.0, 280000.0]",employment_uniques,Полная занятость,23
+"(240000.0, 280000.0]",employment_uniques,Частичная занятость,1
+"(240000.0, 280000.0]",schedule_uniques,Полный день,16
+"(240000.0, 280000.0]",schedule_uniques,Гибкий график,5
+"(240000.0, 280000.0]",schedule_uniques,Удаленная работа,3
+"(240000.0, 280000.0]",key_skills_uniques,Git,9
+"(240000.0, 280000.0]",key_skills_uniques,ООП,7
+"(240000.0, 280000.0]",key_skills_uniques,Java,5
+"(240000.0, 280000.0]",key_skills_uniques,PostgreSQL,4
+"(240000.0, 280000.0]",key_skills_uniques,Linux,4
+"(240000.0, 280000.0]",key_skills_uniques,SQL,3
+"(240000.0, 280000.0]",key_skills_uniques,Android,3
+"(240000.0, 280000.0]",key_skills_uniques,Android SDK,3
+"(240000.0, 280000.0]",key_skills_uniques,JavaScript,3
+"(240000.0, 280000.0]",key_skills_uniques,ReactJS,2
+"(240000.0, 280000.0]",key_skills_uniques,Разработка ПО,2
+"(240000.0, 280000.0]",key_skills_uniques,CSS,2
+"(240000.0, 280000.0]",key_skills_uniques,REST,2
+"(240000.0, 280000.0]",key_skills_uniques,Java EE,2
+"(240000.0, 280000.0]",key_skills_uniques,MySQL,2
+"(240000.0, 280000.0]",key_skills_uniques,Nginx,2
+"(240000.0, 280000.0]",key_skills_uniques,HTML,2
+"(240000.0, 280000.0]",key_skills_uniques,iOS,2
+"(240000.0, 280000.0]",key_skills_uniques,Python,2
+"(240000.0, 280000.0]",key_skills_uniques,C/C++,2
+"(240000.0, 280000.0]",key_skills_uniques,PHP,2
+"(240000.0, 280000.0]",key_skills_uniques,Hibernate ORM,2
+"(240000.0, 280000.0]",key_skills_uniques,Java SE,2
+"(240000.0, 280000.0]",key_skills_uniques,MVC,2
+"(240000.0, 280000.0]",key_skills_uniques,Node.js,2
+"(240000.0, 280000.0]",key_skills_uniques,Objective-C,1
+"(240000.0, 280000.0]",key_skills_uniques,Akka,1
+"(240000.0, 280000.0]",key_skills_uniques,MongoDB,1
+"(240000.0, 280000.0]",key_skills_uniques,Рефакторинг кода,1
+"(240000.0, 280000.0]",key_skills_uniques,SVN,1
+"(240000.0, 280000.0]",key_skills_uniques,webpack,1
+"(240000.0, 280000.0]",key_skills_uniques,Multithread Programming,1
+"(240000.0, 280000.0]",key_skills_uniques,ASP.NET,1
+"(240000.0, 280000.0]",key_skills_uniques,mobx,1
+"(240000.0, 280000.0]",key_skills_uniques,CentOS,1
+"(240000.0, 280000.0]",key_skills_uniques,golang,1
+"(240000.0, 280000.0]",key_skills_uniques,Ubuntu Server,1
+"(240000.0, 280000.0]",key_skills_uniques,redux,1
+"(240000.0, 280000.0]",key_skills_uniques,Atlassian Confluence,1
+"(240000.0, 280000.0]",key_skills_uniques,Typescript,1
+"(240000.0, 280000.0]",key_skills_uniques,Английский язык,1
+"(240000.0, 280000.0]",key_skills_uniques,Angular,1
+"(240000.0, 280000.0]",key_skills_uniques,C++,1
+"(240000.0, 280000.0]",key_skills_uniques,1С программирование,1
+"(240000.0, 280000.0]",key_skills_uniques,Redux,1
+"(240000.0, 280000.0]",key_skills_uniques,go,1
+"(240000.0, 280000.0]",key_skills_uniques,1С: Управление Торговлей,1
+"(240000.0, 280000.0]",key_skills_uniques,.NET Framework,1
+"(240000.0, 280000.0]",key_skills_uniques,Hazelcast,1
+"(240000.0, 280000.0]",key_skills_uniques,Webapi,1
+"(240000.0, 280000.0]",key_skills_uniques,Модульное тестирование,1
+"(240000.0, 280000.0]",key_skills_uniques,Spring Framework,1
+"(240000.0, 280000.0]",key_skills_uniques,Kotlin,1
+"(240000.0, 280000.0]",key_skills_uniques,babel,1
+"(240000.0, 280000.0]",key_skills_uniques,Администрирование серверов Linux,1
+"(240000.0, 280000.0]",key_skills_uniques,Xcode,1
+"(240000.0, 280000.0]",key_skills_uniques,MS SQL,1
+"(240000.0, 280000.0]",key_skills_uniques,k8s,1
+"(240000.0, 280000.0]",key_skills_uniques,Redis,1
+"(240000.0, 280000.0]",key_skills_uniques,SQLite,1
+"(240000.0, 280000.0]",key_skills_uniques,JBoss,1
+"(240000.0, 280000.0]",key_skills_uniques,Swift,1
+"(240000.0, 280000.0]",key_skills_uniques,XML,1
+"(240000.0, 280000.0]",key_skills_uniques,Apache HTTP Server,1
+"(240000.0, 280000.0]",key_skills_uniques,SPA frameworks,1
+"(240000.0, 280000.0]",key_skills_uniques,RxJs,1
+"(240000.0, 280000.0]",key_skills_uniques,docker,1
+"(240000.0, 280000.0]",key_skills_uniques,laravel,1
+"(240000.0, 280000.0]",key_skills_uniques,SignalR,1
+"(240000.0, 280000.0]",key_skills_uniques,websocket,1
+"(240000.0, 280000.0]",key_skills_uniques,Symfony,1
+"(240000.0, 280000.0]",key_skills_uniques,react,1
+"(240000.0, 280000.0]",key_skills_uniques,kubernetes,1
+"(240000.0, 280000.0]",key_skills_uniques,SOAP,1
+"(240000.0, 280000.0]",key_skills_uniques,Mac Os,1
+"(240000.0, 280000.0]",key_skills_uniques,MS Project,1
+"(240000.0, 280000.0]",key_skills_uniques,Atlassian Jira,1
+"(240000.0, 280000.0]",key_skills_uniques,Angular 2+,1
+"(240000.0, 280000.0]",key_skills_uniques,C#,1
+"(240000.0, 280000.0]",key_skills_uniques,Development,1
+"(280000.0, 320000.0]",salary_from_uniques,0.0,4
+"(280000.0, 320000.0]",salary_from_uniques,200000.0,4
+"(280000.0, 320000.0]",salary_from_uniques,150000.0,2
+"(280000.0, 320000.0]",salary_from_uniques,130000.0,1
+"(280000.0, 320000.0]",salary_from_uniques,70000.0,1
+"(280000.0, 320000.0]",salary_to_uniques,300000.0,10
+"(280000.0, 320000.0]",salary_to_uniques,287500.0,2
+"(280000.0, 320000.0]",experience_uniques,От 3 до 6 лет,5
+"(280000.0, 320000.0]",experience_uniques,Более 6 лет,4
+"(280000.0, 320000.0]",experience_uniques,От 1 года до 3 лет,3
+"(280000.0, 320000.0]",employment_uniques,Полная занятость,12
+"(280000.0, 320000.0]",schedule_uniques,Полный день,10
+"(280000.0, 320000.0]",schedule_uniques,Удаленная работа,1
+"(280000.0, 320000.0]",schedule_uniques,Гибкий график,1
+"(280000.0, 320000.0]",key_skills_uniques,Git,3
+"(280000.0, 320000.0]",key_skills_uniques,PostgreSQL,2
+"(280000.0, 320000.0]",key_skills_uniques,C#,2
+"(280000.0, 320000.0]",key_skills_uniques,JavaScript,2
+"(280000.0, 320000.0]",key_skills_uniques,.NET Framework,2
+"(280000.0, 320000.0]",key_skills_uniques,SQL,2
+"(280000.0, 320000.0]",key_skills_uniques,1С: Склад,1
+"(280000.0, 320000.0]",key_skills_uniques,React,1
+"(280000.0, 320000.0]",key_skills_uniques,Entity Framework,1
+"(280000.0, 320000.0]",key_skills_uniques,ООП,1
+"(280000.0, 320000.0]",key_skills_uniques,Linux,1
+"(280000.0, 320000.0]",key_skills_uniques,Java EE,1
+"(280000.0, 320000.0]",key_skills_uniques,Devops,1
+"(280000.0, 320000.0]",key_skills_uniques,ERP,1
+"(280000.0, 320000.0]",key_skills_uniques,Pandas,1
+"(280000.0, 320000.0]",key_skills_uniques,CSS,1
+"(280000.0, 320000.0]",key_skills_uniques,Заупки,1
+"(280000.0, 320000.0]",key_skills_uniques,Python,1
+"(280000.0, 320000.0]",key_skills_uniques,1С: Торговля и склад,1
+"(280000.0, 320000.0]",key_skills_uniques,Vue.js,1
+"(280000.0, 320000.0]",key_skills_uniques,Django Framework,1
+"(280000.0, 320000.0]",key_skills_uniques,ASP.NET,1
+"(280000.0, 320000.0]",key_skills_uniques,Jenkins,1
+"(280000.0, 320000.0]",key_skills_uniques,1С: Предприятие 8,1
+"(280000.0, 320000.0]",key_skills_uniques,Разработка технических заданий,1
+"(280000.0, 320000.0]",key_skills_uniques,Hibernate ORM,1
+"(280000.0, 320000.0]",key_skills_uniques,Java,1
+"(280000.0, 320000.0]",key_skills_uniques,Node.js,1
+"(280000.0, 320000.0]",key_skills_uniques,Spring Framework,1
+"(280000.0, 320000.0]",key_skills_uniques,Nginx,1
+"(280000.0, 320000.0]",key_skills_uniques,XML,1
+"(280000.0, 320000.0]",key_skills_uniques,Elasticsearch,1
+"(280000.0, 320000.0]",key_skills_uniques,PHP,1
+"(280000.0, 320000.0]",key_skills_uniques,MS SQL,1
+"(280000.0, 320000.0]",key_skills_uniques,Hadoop,1
+"(280000.0, 320000.0]",key_skills_uniques,Администрирование серверов Linux,1
+"(280000.0, 320000.0]",key_skills_uniques,MS Dynamics CRM,1
+"(280000.0, 320000.0]",key_skills_uniques,HTML,1
+"(280000.0, 320000.0]",key_skills_uniques,1С: Документооборот,1
+"(280000.0, 320000.0]",key_skills_uniques,MongoDB,1
+"(280000.0, 320000.0]",key_skills_uniques,.NET Core,1
+"(280000.0, 320000.0]",key_skills_uniques,Java SE,1
+"(280000.0, 320000.0]",key_skills_uniques,Автоматизация склада,1
+"(280000.0, 320000.0]",key_skills_uniques,Vue,1
+"(280000.0, 320000.0]",key_skills_uniques,Docker,1
+"(280000.0, 320000.0]",key_skills_uniques,WMS,1
+"(280000.0, 320000.0]",key_skills_uniques,Laravel,1
+"(320000.0, 360000.0]",salary_from_uniques,150000.0,4
+"(320000.0, 360000.0]",salary_from_uniques,250000.0,2
+"(320000.0, 360000.0]",salary_from_uniques,200000.0,1
+"(320000.0, 360000.0]",salary_to_uniques,350000.0,6
+"(320000.0, 360000.0]",salary_to_uniques,330000.0,1
+"(320000.0, 360000.0]",experience_uniques,От 3 до 6 лет,6
+"(320000.0, 360000.0]",experience_uniques,Более 6 лет,1
+"(320000.0, 360000.0]",employment_uniques,Полная занятость,7
+"(320000.0, 360000.0]",schedule_uniques,Гибкий график,4
+"(320000.0, 360000.0]",schedule_uniques,Полный день,3
+"(320000.0, 360000.0]",key_skills_uniques,C/C++,1
+"(320000.0, 360000.0]",key_skills_uniques,Git,1
+"(320000.0, 360000.0]",key_skills_uniques,TensorRT,1
+"(320000.0, 360000.0]",key_skills_uniques,Android SDK,1
+"(320000.0, 360000.0]",key_skills_uniques,Kotlin,1
+"(320000.0, 360000.0]",key_skills_uniques,Objective-C,1
+"(320000.0, 360000.0]",key_skills_uniques,Multithread Programming,1
+"(320000.0, 360000.0]",key_skills_uniques,Nvidia SDK,1
+"(320000.0, 360000.0]",key_skills_uniques,JSON API,1
+"(320000.0, 360000.0]",key_skills_uniques,Swift,1
+"(320000.0, 360000.0]",key_skills_uniques,Java,1
+"(320000.0, 360000.0]",key_skills_uniques,Python,1
+"(320000.0, 360000.0]",key_skills_uniques,iOS,1
+"(320000.0, 360000.0]",key_skills_uniques,HTTP,1
+"(320000.0, 360000.0]",key_skills_uniques,Работа в команде,1
+"(320000.0, 360000.0]",key_skills_uniques,Linux,1
+"(320000.0, 360000.0]",key_skills_uniques,OpenCV,1
+"(360000.0, 400000.0]",salary_from_uniques,0.0,2
+"(360000.0, 400000.0]",salary_to_uniques,400000.0,2
+"(360000.0, 400000.0]",experience_uniques,От 3 до 6 лет,1
+"(360000.0, 400000.0]",experience_uniques,От 1 года до 3 лет,1
+"(360000.0, 400000.0]",employment_uniques,Полная занятость,2
+"(360000.0, 400000.0]",schedule_uniques,Полный день,1
+"(360000.0, 400000.0]",schedule_uniques,Удаленная работа,1
+"(360000.0, 400000.0]",key_skills_uniques,react.js,1
+"(360000.0, 400000.0]",key_skills_uniques,HTML,1
+"(360000.0, 400000.0]",key_skills_uniques,распознавание лиц,1
+"(360000.0, 400000.0]",key_skills_uniques,Reactjs,1
+"(360000.0, 400000.0]",key_skills_uniques,CSS3,1
+"(360000.0, 400000.0]",key_skills_uniques,XML,1
+"(360000.0, 400000.0]",key_skills_uniques,Web-дизайн,1
+"(360000.0, 400000.0]",key_skills_uniques,CSS,1
+"(360000.0, 400000.0]",key_skills_uniques,удаленная работа,1
+"(360000.0, 400000.0]",key_skills_uniques,HTML5,1
+"(360000.0, 400000.0]",key_skills_uniques,Python,1
+"(360000.0, 400000.0]",key_skills_uniques,docker,1
+"(360000.0, 400000.0]",key_skills_uniques,Верстка,1
+"(360000.0, 400000.0]",key_skills_uniques,видеопоток,1
+"(360000.0, 400000.0]",key_skills_uniques,Реакт,1
+"(360000.0, 400000.0]",key_skills_uniques,frontend,1
+"(360000.0, 400000.0]",key_skills_uniques,React,1
+"(360000.0, 400000.0]",key_skills_uniques,CMS Wordpress,1
+"(360000.0, 400000.0]",key_skills_uniques,Git,1
+"(360000.0, 400000.0]",key_skills_uniques,Ajax,1
+"(360000.0, 400000.0]",key_skills_uniques,Bootstrap,1
+"(360000.0, 400000.0]",key_skills_uniques,jQuery,1

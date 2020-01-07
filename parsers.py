@@ -2,24 +2,19 @@ import requests
 import mapper
 from tqdm import tqdm
 
-
 class Parser:
-
     URL_VACANCIES = 'https://api.hh.ru/vacancies?'
     URL_VACANCY = 'https://api.hh.ru/vacancies/'
-    PER_PAGE = 100
-    PAGES = 10
     PBAR_UPDATE = 10
 
-    def get_vacancies(self):
-        params = {'area': 1, 'text': 'Программист', "per_page": Parser.PER_PAGE}
+    def get_vacancies(self, area=1, text='Программист', pages=10, per_page=100):
+        params = {'area': area, 'text': text, "per_page": per_page}
 
         vacancies = []
 
-        pbar = tqdm(total=Parser.PER_PAGE * Parser.PAGES)
+        pbar = tqdm(total=per_page * pages, desc=f'Parcing vacancies from {Parser.URL_VACANCIES}')
 
-        print(f'Parcing vacancies from {Parser.URL_VACANCIES}')
-        for i in range(Parser.PAGES):
+        for i in range(pages):
             params["page"] = i
             vacancies_json = requests.get(Parser.URL_VACANCIES, params).json()["items"]
 
@@ -35,6 +30,5 @@ class Parser:
 
                 if j % Parser.PBAR_UPDATE == 0:
                     pbar.update(Parser.PBAR_UPDATE)
-
 
         return vacancies

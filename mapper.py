@@ -1,6 +1,5 @@
 from abc import abstractmethod
 
-
 class ResponseToDomainMapper:
     @staticmethod
     @abstractmethod
@@ -10,14 +9,13 @@ class ResponseToDomainMapper:
 class ResponseToKeySkillsMapper(ResponseToDomainMapper):
     @staticmethod
     def map(skills):
-        return [k["name"] or "" for k in skills]
+        return [k["name"] for k in skills]
 
 
 class ResponseToVacancyMapper(ResponseToDomainMapper):
 
     @staticmethod
     def map(vacancy):
-
         result = {
             "id": vacancy["id"],
             "name": vacancy["name"],
@@ -30,7 +28,7 @@ class ResponseToVacancyMapper(ResponseToDomainMapper):
             "description": vacancy["description"] or "",
             "responsibility": vacancy["snippet"]["responsibility"] or "",
             "requirement": vacancy["snippet"]["requirement"] or "",
-            "key_skills": ResponseToKeySkillsMapper.map(vacancy["key_skills"])
+            "key_skills": ResponseToKeySkillsMapper.map(vacancy["key_skills"] or [])
         }
 
         if vacancy["salary"] is not None:
